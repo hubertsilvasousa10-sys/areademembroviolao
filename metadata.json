@@ -1,0 +1,8 @@
+{
+  "name": "Violão Master - Área de Membros",
+  "description": "Plataforma exclusiva para alunos de violão com módulos de curso, rastreador de progresso diário, bônus de cifras e suporte por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
